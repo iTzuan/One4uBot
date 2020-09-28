@@ -25,7 +25,7 @@ from userbot.events import register
 DEF_UNAPPROVED_MSG = (
     "HeY! This is an automated message.\n"
     "Please wait untill I approve ur message.\n"
-    "don't spam my PM...\n"
+    "don't spam my PM ...\n"
     "Thank you for being patient.\n\n"
 
 )
